@@ -1,0 +1,25 @@
+build
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# VS Code
+.vscode/
+
+# Build files
+build/
+Debug/
+Release/
+
+# Object files
+*.o
+*.elf
+*.hex
+*.map
+
+# KiCad
+*.kicad_prl
+*-backups/
