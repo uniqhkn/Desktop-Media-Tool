@@ -1,10 +1,7 @@
-build
-
-# macOS
-.DS_Store
-
 # Linux
 *~
+# History
+.history
 
 # VS Code
 .vscode/
